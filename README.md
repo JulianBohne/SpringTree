@@ -4,3 +4,4 @@ This is made in Processing3 (www.processing.org).
 Play around with the code and have fun :D
 
 The source code is in the spring_tree directory, but also ready to go zipped up in the spring_tree.zip :)
+![Tree waving in the wind](https://github.com/JulianBohne/SpringTree/blob/master/tree.gif)
